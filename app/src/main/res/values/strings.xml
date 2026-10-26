@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentDatabase</string>
+
+    <string-array name="majors">
+        <item>Informatics</item>
+        <item>Information Systems</item>
+    </string-array>
+</resources>
